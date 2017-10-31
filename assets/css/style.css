@@ -521,7 +521,7 @@ input:-ms-input-placeholder {
 	z-index: 300;
     box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    background-color: #3d3325;
+    background-color: #ffffff;
 	
 }
 
@@ -534,7 +534,7 @@ input:-ms-input-placeholder {
 	transition:.6s;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-	color:#e84c3d;
+	color:#2fac6c;
 }
 .main_menu_bg .navbar {
     margin-bottom: 0px;
@@ -550,7 +550,7 @@ input:-ms-input-placeholder {
 	text-transform:uppercase;
 }
 .main_menu_bg .navbar-default .navbar-nav>.active>a{
-    color: #e84c3d;
+    color: #2fac6c;
     background-color: transparent;
     border-bottom: 1px solid #FFF;
     margin-bottom: -1px;
